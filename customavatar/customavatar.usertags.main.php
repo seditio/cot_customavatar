@@ -16,7 +16,7 @@ Order=20
 
 defined('COT_CODE') or die('Wrong URL');
 
-include_once cot_incfile('userimages', 'plug', 'resources');
+// include_once cot_incfile('userimages', 'plug', 'resources');
 
 if (is_array($user_data) && !empty($user_data['user_id']) && !empty($user_data['user_name']) && !empty($user_data['user_avatar'])) {
   $temp_array['AVATAR'] = cot_rc('userimg_img', array('src' => $user_data['user_avatar'], 'alt' => $user_data['user_name'], 'class' => 'img-fluid'));
