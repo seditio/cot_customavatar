@@ -19,6 +19,7 @@ Requires_plugins=
 [END_COT_EXT]
 [BEGIN_COT_EXT_CONFIG]
 class=01:string::img-fluid:
+blank=02:string::blank.png:
 [END_COT_EXT_CONFIG]
 ==================== */
 

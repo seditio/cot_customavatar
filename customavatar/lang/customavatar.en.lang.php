@@ -22,6 +22,7 @@ $L['info_desc'] = 'Modifies class of the standard user avatar image';
 
 $L['cfg_class'] = 'Class to be assigned to the avatar image';
 $L['cfg_class_hint'] = 'Several classes possible, space separated';
+$L['cfg_blank'] = 'Filename for an unregged user avatar';
 
 /**
  * Plugin Body
