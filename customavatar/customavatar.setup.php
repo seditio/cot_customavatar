@@ -18,6 +18,7 @@ Requires_modules=
 Requires_plugins=
 [END_COT_EXT]
 [BEGIN_COT_EXT_CONFIG]
+class=01:string::img-fluid:
 [END_COT_EXT_CONFIG]
 ==================== */
 
